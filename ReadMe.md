@@ -7,6 +7,7 @@ To run the code run the code:
    1. To install on PyCharms IDE go to File > Settings > Project: CVHandTracking > Python Interpreter > Click the + symbol at the top right > search opencv-python & mediapipe respectively
 
 2. Run the HandTracker.py file (we used PyCharms and just right clicked on the file)
+   
    1.Note that you will need to hold a hand up to the camera while the program is loading or you will get an error 
 
 
